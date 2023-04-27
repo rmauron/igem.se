@@ -1,4 +1,4 @@
-# igem.se_webpage
+# igem.se Official Webpage
 Creation of the official igem.se webpage for the igem Stockholm teams.
 
 This is the very first webpage I created in the context of igem competition.
